@@ -5,19 +5,6 @@ A style guide to python
 
 By Sean Westfall
 
-Properties
-  1. Getting help
-  1. Syntax
-  1. Data types
-  1. Strings
-  1. Flow control statements
-  1. Functions
-  1. Classes
-  1. Exceptions
-  1. Importing
-  1. File I/O
-  1. License
-
 ## Table of Contents
   1. [Official Documentation](#official-documentation)
   1. [Properties](#properties)
@@ -30,6 +17,7 @@ Properties
   1. [Exceptions](#exceptions)
   1. [Importing](#importing)
   1. [File I/O](#file-i/0)
+  1. [License](#license)
 
 ## Official Documentation
 
