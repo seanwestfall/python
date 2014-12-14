@@ -17,6 +17,7 @@ By Sean Westfall
   1. [Exceptions](#exceptions)
   1. [Importing](#importing)
   1. [File I/O](#file-i/0)
+  1. [Design Patterns](#design-patterns)
   1. [License](#license)
 
 ## Official Documentation
