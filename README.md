@@ -7,6 +7,7 @@ By Sean Westfall
 
 ## Table of Contents
   1. [Official Documentation](#official-documentation)
+  1. [Virtual Environments](#virtual-environments)
   1. [Properties](#properties)
   1. [Syntax](#syntax)
   1. [Data Types](#data-types)
