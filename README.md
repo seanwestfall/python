@@ -1,7 +1,7 @@
 python
 ========
 
-A style guide to python
+A style guide to python 3 (3.2,
 
 By Sean Westfall
 
@@ -22,6 +22,8 @@ By Sean Westfall
   1. [License](#license)
 
 ## Official Documentation
+[Python Documentation](https://docs.python.org/3.2/tutorial/)
+Provides a guide to all versions of Python (2.6..3.4.2) including the current developmental branch (as of now 3.5).
 
 **[⬆ back to top](#table-of-contents)**
 
