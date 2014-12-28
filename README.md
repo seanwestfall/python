@@ -1,7 +1,7 @@
 python
 ========
 
-A style guide to python 3 (3.2,
+A style guide to python 3
 
 By Sean Westfall
 
