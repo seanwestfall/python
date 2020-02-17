@@ -19,12 +19,13 @@ By Sean Westfall
   1. [Importing](#importing)
   1. [File I/O](#file-i/0)
   1. [Design Patterns](#design-patterns)
+  1. [Logging](#logging)
   1. [License](#license)
 
 ## Official Documentation
-[Python Documentation](https://docs.python.org/3.2/tutorial/)
+[Python Documentation](https://docs.python.org/3.8/tutorial/)
 
-Provides a guide to all versions of Python (2.6..3.4.2) including the current developmental branch (as of now 3.5).
+Provides a guide to all versions of Python (2.7..3.8) including the current developmental branch (as of now 3.9).
 
 **[⬆ back to top](#table-of-contents)**
 
@@ -72,11 +73,15 @@ Provides a guide to all versions of Python (2.6..3.4.2) including the current de
 
 **[⬆ back to top](#table-of-contents)**
 
+## Logging
+
+**[⬆ back to top](#table-of-contents)**
+
 ## License
 
 (The MIT License)
 
-Copyright (c) 2014 Sean Westfall
+Copyright (c) 2020 Sean Westfall
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
