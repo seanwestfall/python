@@ -8,6 +8,7 @@ By Sean Westfall
 ## Table of Contents
   1. [Official Documentation](#official-documentation)
   1. [Virtual Environments](#virtual-environments)
+  1. [Pip](#pip)
   1. [Properties](#properties)
   1. [Syntax](#syntax)
   1. [Data Types](#data-types)
@@ -30,6 +31,22 @@ Provides a guide to all versions of Python (2.7..3.8) including the current deve
 **[⬆ back to top](#table-of-contents)**
 
 ## Virtual Environments
+
+To create a new virtual environment (`/path/to/new/virtual/environment` is the directory of your project):
+
+```bash
+$ python3 -m venv /path/to/new/virtual/environment
+```
+
+then to activate (where `project-name` is the name of your project):
+
+```bash
+$ source project-name/bin/activate
+```
+
+**[⬆ back to top](#table-of-contents)**
+
+## Pip
 
 **[⬆ back to top](#table-of-contents)**
 
