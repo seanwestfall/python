@@ -34,19 +34,25 @@ Provides a guide to all versions of Python (2.7..3.8) including the current deve
 
 To create a new virtual environment (`/path/to/new/virtual/environment` is the directory of your project):
 
-```bash
+```
 $ python3 -m venv /path/to/new/virtual/environment
 ```
 
 then to activate (where `project-name` is the name of your project):
 
-```bash
+```
 $ source project-name/bin/activate
 ```
 
 **[⬆ back to top](#table-of-contents)**
 
 ## Pip
+
+Dependencies in a requirement.txt file can be installed this way:
+
+```
+$ python3 -m pip install -r requirements.txt
+```
 
 **[⬆ back to top](#table-of-contents)**
 
