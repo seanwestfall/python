@@ -82,6 +82,21 @@ $ python3 -m pip install -r requirements.txt
 
 ## Classes
 
+Basic syntax   
+
+```python
+class ClassName:
+    .
+    .
+    .
+```
+
+Classes my have a constructor, used with the keyword `__init__`
+```python
+def __init__(self):
+    self.data = []
+```
+
 **[⬆ back to top](#table-of-contents)**
 
 ## Exceptions
