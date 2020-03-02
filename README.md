@@ -18,6 +18,7 @@ By Sean Westfall
   1. [Classes](#classes)
   1. [Exceptions](#exceptions)
   1. [Importing](#importing)
+  1. [Asyncio](#asyncio)
   1. [File I/O](#file-i/0)
   1. [Design Patterns](#design-patterns)
   1. [Logging](#logging)
@@ -104,6 +105,10 @@ def __init__(self):
 **[⬆ back to top](#table-of-contents)**
 
 ## Importing
+
+**[⬆ back to top](#table-of-contents)**
+
+## Asyncio
 
 **[⬆ back to top](#table-of-contents)**
 
